@@ -29,6 +29,8 @@ namespace enumerable
         {
             InitializeComponent();
             nameone();
+
+            PixelFormats.Rgba64;
             //Account.AccountTyppe.checking
 
            // weather givename = new weather(weather.firstname.warm);
